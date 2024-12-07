@@ -1,4 +1,4 @@
-#include <Spegetti_GUI.h>
+#include <Headers/Spegetti_GUI.h>
 
 namespace Spegetti_GUI
 {

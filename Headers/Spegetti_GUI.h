@@ -1,7 +1,7 @@
 #ifndef Spegetti_GUI_H
 #define Spegetti_GUI_H
 
-#includes <iostream>
+#include <iostream>
 
 namespace Spegetti_GUI
 {

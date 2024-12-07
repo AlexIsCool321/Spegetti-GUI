@@ -7,3 +7,8 @@ CMakeCache.txt
 *.bin
 /CMakeFiles
 *.sln
+/.vs
+*.user
+/Release
+/Spegetti_GUI.dir
+/x64
